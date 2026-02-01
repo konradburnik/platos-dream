@@ -174,7 +174,8 @@ Plato believed that mathematics exists in a perfect realm of forms - unchanging,
 ## Credits
 
 - Concept: Konrad Burnik
-- Design & Programming: Claude Code
+- Design: Konrad Burnik, Claude Code
+- Programming: Claude Code
 - Historical portraits of mathematicians included
 - Inspired by the history of mathematics and classic exploration games
 
