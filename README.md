@@ -166,7 +166,7 @@ Plato believed that mathematics exists in a perfect realm of forms - unchanging,
 
 ## Technical Details
 
-- Built with Python and Pygame
+- Built with Python and Pygame (vibe-coded using Claude Code with Opus 4.5)
 - Compiled to WebAssembly using Pygbag
 - Runs in any modern web browser
 - No installation required
